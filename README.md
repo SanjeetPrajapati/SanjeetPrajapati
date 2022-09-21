@@ -2,7 +2,9 @@
 - 👀 I’m interested in working with different projects related to web
 - 🌱 I’m currently learning  js
 - 💞️ I’m looking to collaborate on  some websites 
-- 📫 How to reach me ...
+- 📫 How to reach me  prajapatisanjeet50@gmail.com
+-  linkedin : https://www.linkedin.com/in/sanjeet-prajapati-895a27243/
+-  instagram : https://www.instagram.com/coder_sanjeet/
 -
 
 <!---
