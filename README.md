@@ -28,6 +28,6 @@
 
 ## CONNECT WITH ME
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjeet-prajapati-895a27243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/sanjeet-prajapati-895a27243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="mailto:prajapatisanjeet50@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
 </a>  <a href="https://www.instagram.com/coder_sanjeet/"><img src=https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png height =40 /></a>
